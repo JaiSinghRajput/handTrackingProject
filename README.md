@@ -2,7 +2,7 @@
 this project focus on cursor moving accordingly to movements of hand gestures 
 ## Used Libraries 
 - Open Cv
-- pytogui
+- pyautogui
 - mediapipe
 ### How to run
 ```sh
